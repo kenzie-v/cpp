@@ -5,8 +5,8 @@
 #include <memory>
 
 int main(){
-    std::unique_ptr<PersonData> customer = std::make_unique<CustomerData>("Vasquez", "Kenzie", "1001 North Tustin",
-                        "Santa Ana", "CA", "10001", "6191234567", 2520399, true);
+    std::unique_ptr<PersonData> customer = std::make_unique<CustomerData>("V", "K", "1011 Aldebaran Ave",
+                        "Long Beach", "CA", "10001", "6191234567", 2520399, true);
     customer->display();
 
 

@@ -8,7 +8,7 @@
 
 int main(){
     std::unique_ptr<PersonData> customer=std::make_unique<PreferredCustomer>
-        ("Vasquez","Kenzie","1001 North Tustin","Santa Ana","CA",
+        ("Vishnu","Krisna","1001 NT","Santa Ana","CA",
          "10001","6191234567",2520399,true,1000);
     customer->display();
 

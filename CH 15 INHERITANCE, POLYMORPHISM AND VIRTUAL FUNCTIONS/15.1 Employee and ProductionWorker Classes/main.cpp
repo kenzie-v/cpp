@@ -25,7 +25,7 @@ uses a ProductionWorker object.
 int main()
 {
     ProductionWorker dayWorker("John Doe", 12345, "08-23-2025", 1, 20);
-    ProductionWorker nightWorker("Will Smith", 54321, "08-31-2025", 2, 22);
+    ProductionWorker nightWorker("Will S.", 54321, "08-31-2025", 2, 22);
 
     std::cout << dayWorker << std::endl;
     std::cout << nightWorker << std::endl;
