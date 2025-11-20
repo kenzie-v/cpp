@@ -13,7 +13,7 @@ bool Account::deposit(double amount) {
         return false;
     else {
         balance += amount;
-        //return true;
+        return true;
     }
 }
 
@@ -23,7 +23,7 @@ bool Account::withdraw(double amount) {
         return true;
     } else {
         throw InsufficientFundsException();
-        return false;
+        //return false;
     }
 }
 
