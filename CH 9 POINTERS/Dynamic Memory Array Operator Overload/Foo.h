@@ -2,11 +2,11 @@
 #define FOO_H
 
 class Foo {
-    private:
+private:
     int size;
     int* arr;
 
-    public:
+public:
         Foo(int);
         Foo(const Foo&);
         ~Foo();
