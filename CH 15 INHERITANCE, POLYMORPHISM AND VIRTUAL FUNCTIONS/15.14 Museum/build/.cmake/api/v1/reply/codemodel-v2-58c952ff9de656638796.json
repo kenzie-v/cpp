@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-b23a0b23c080df4d29ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "4.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "15_14_Museum",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "15_14_Museum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_14_Museum-Debug-1aa2eddcf51b815e0640.json",
+					"name" : "15_14_Museum",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/build",
+		"source" : "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

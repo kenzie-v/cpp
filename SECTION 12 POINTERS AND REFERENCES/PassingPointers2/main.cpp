@@ -6,16 +6,12 @@
 
 using namespace std;
 
-
-void swap(int *a, int *b) {
-    int temp = *a;
-    *a = *b;
-    *b = temp;
-}
-
+void swap(int *a, int *b);
 
 int main() {
-    int x {100}, y {200};
+    int x {100}, 
+        y {200};
+
     cout << "\nx: " << x <<  endl;
     cout << "y: " << y <<  endl;
     
@@ -28,3 +24,19 @@ int main() {
     return 0;
 }
 
+void swap(int *a, int *b) {
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
+/*
+^ XOR
+
+^=
+
+fast swap:
+a ^= b       a = a ^ b
+b ^= a       b = b ^ a
+a ^= b       a = a ^ b
+*/

@@ -8,7 +8,7 @@ that holds the annual production bonus that a shift supervisor has earned. Write
 or more constructors and the appropriate accessor and mutator functions for the class.
 Demonstrate the class by writing a program that uses a ShiftSupervisor object.
 */
-#include "Employee.h"
+
 #include "ShiftSupervisor.h"
 #include <iostream>
 

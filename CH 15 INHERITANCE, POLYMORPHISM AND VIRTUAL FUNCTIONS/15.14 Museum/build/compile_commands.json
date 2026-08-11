@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/15_14_Museum.dir/main.cpp.o -c \"/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/main.cpp\"",
+  "file": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/main.cpp",
+  "output": "CMakeFiles/15_14_Museum.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/15_14_Museum.dir/ArtWork.cpp.o -c \"/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/ArtWork.cpp\"",
+  "file": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/ArtWork.cpp",
+  "output": "CMakeFiles/15_14_Museum.dir/ArtWork.cpp.o"
+},
+{
+  "directory": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/15_14_Museum.dir/Painting.cpp.o -c \"/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/Painting.cpp\"",
+  "file": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/Painting.cpp",
+  "output": "CMakeFiles/15_14_Museum.dir/Painting.cpp.o"
+},
+{
+  "directory": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/15_14_Museum.dir/Sculpture.cpp.o -c \"/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/Sculpture.cpp\"",
+  "file": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/Sculpture.cpp",
+  "output": "CMakeFiles/15_14_Museum.dir/Sculpture.cpp.o"
+},
+{
+  "directory": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/15_14_Museum.dir/Statue.cpp.o -c \"/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/Statue.cpp\"",
+  "file": "/Users/kenzie/Documents/GitHub/cpp/CH 15 INHERITANCE, POLYMORPHISM AND VIRTUAL FUNCTIONS/15.14 Museum/Statue.cpp",
+  "output": "CMakeFiles/15_14_Museum.dir/Statue.cpp.o"
+}
+]

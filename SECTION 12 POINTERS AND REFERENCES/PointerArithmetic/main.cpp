@@ -2,11 +2,9 @@
 // Pointer Arithmetic
 
 #include <iostream>
-
 using namespace std;
 
 int main() {
-    
     int scores[] {100, 95, 89, 68, -1};
     int *score_ptr {scores};
     
@@ -30,8 +28,8 @@ int main() {
     string *p3 {&s1};
 
     cout << boolalpha;
-    cout << p1 << "==" << p2 << ": " << (p1 == p2) << endl;		// false
-    cout << p1 << "==" << p3 << ": " << (p1 == p3) << endl;		// true
+    cout << p1 << "==" << p2 << ": " << (p1 == p2) << endl;		    // false
+    cout << p1 << "==" << p3 << ": " << (p1 == p3) << endl;		    // true
 
     cout << *p1 << "==" << *p2 << ": " << (*p1 == *p2) << endl;		// true
     cout << *p1 << "==" << *p3 << ": " << (*p1 == *p3) << endl;		// true

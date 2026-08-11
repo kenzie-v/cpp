@@ -1,0 +1,2 @@
+/Users/kenzie/Documents/GitHub/cpp/SECTION 12 POINTERS AND REFERENCES/PointerArithmetic/build/CMakeFiles/edit_cache.dir
+/Users/kenzie/Documents/GitHub/cpp/SECTION 12 POINTERS AND REFERENCES/PointerArithmetic/build/CMakeFiles/rebuild_cache.dir

@@ -7,9 +7,13 @@
 int ArtWork::total_number;
 
 ArtWork::ArtWork() {
-    serial = ++total_number;
+    serial = std::to_string(++total_number);
 }
 
 void ArtWork::set_name(std::string &nm) {
     name = nm;
+}
+
+std::string ArtWork::get_name() {
+    return name;
 }

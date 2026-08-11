@@ -7,20 +7,8 @@
 
 using namespace std;
 
-void display( const vector<string> *const  v) {
-//(*v).at(0) = "Funny";
-    for (auto str: *v)
-        cout << str << " ";
-    cout << endl;
-  
- //   v = nullptr;
-}
-
-void display(int *array, int sentinel) {
-    while (*array != sentinel)
-        cout << *array++ << " ";
-    cout << endl;
-}
+void display( const vector<string> *const  v);
+void display(int *array, int sentinel);
 
 int main() {
 
@@ -36,3 +24,17 @@ int main() {
     return 0;
 }
 
+void display( const vector<string> *const  v) {
+//(*v).at(0) = "Funny";
+    for (auto str: *v)
+        cout << str << " ";
+    cout << endl;
+  
+ //   v = nullptr;
+}
+
+void display(int *array, int sentinel) {
+    while (*array != sentinel)
+        cout << *array++ << " ";
+    cout << endl;
+}

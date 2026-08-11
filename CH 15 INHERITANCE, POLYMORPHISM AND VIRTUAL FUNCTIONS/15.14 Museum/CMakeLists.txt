@@ -5,10 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(15_14_Museum main.cpp
         ArtWork.cpp
-        ArtWork.h
         Painting.cpp
-        Painting.h
         Sculpture.cpp
-        Sculpture.h
-        Statue.cpp
-        Statue.h)
+        Statue.cpp)
