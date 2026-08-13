@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/UniquePointers.dir/main.cpp.o CMakeFiles/UniquePointers.dir/Account.cpp.o CMakeFiles/UniquePointers.dir/I_Printable.cpp.o CMakeFiles/UniquePointers.dir/Checking_Account.cpp.o CMakeFiles/UniquePointers.dir/Savings_Account.cpp.o CMakeFiles/UniquePointers.dir/Trust_Account.cpp.o -o UniquePointers

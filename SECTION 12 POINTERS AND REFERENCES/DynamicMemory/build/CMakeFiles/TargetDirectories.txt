@@ -1,0 +1,3 @@
+/Users/kenzie/Documents/GitHub/cpp/SECTION 12 POINTERS AND REFERENCES/DynamicMemory/build/CMakeFiles/DynamicMemory.dir
+/Users/kenzie/Documents/GitHub/cpp/SECTION 12 POINTERS AND REFERENCES/DynamicMemory/build/CMakeFiles/edit_cache.dir
+/Users/kenzie/Documents/GitHub/cpp/SECTION 12 POINTERS AND REFERENCES/DynamicMemory/build/CMakeFiles/rebuild_cache.dir

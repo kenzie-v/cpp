@@ -1,0 +1,3 @@
+/Users/kenzie/Documents/GitHub/cpp/SECTION 17 SMART POINTERS/UniquePointers/build/CMakeFiles/UniquePointers.dir
+/Users/kenzie/Documents/GitHub/cpp/SECTION 17 SMART POINTERS/UniquePointers/build/CMakeFiles/edit_cache.dir
+/Users/kenzie/Documents/GitHub/cpp/SECTION 17 SMART POINTERS/UniquePointers/build/CMakeFiles/rebuild_cache.dir
